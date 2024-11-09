@@ -8,13 +8,13 @@
   <h3 align="center">FlutterFlow Video Compression</h3>
 
    <div align="center">
-    Join me as we add video compression to our FlutterFlow application and upload it to BunnyCDN by following the detailed tutorial <a href="https://www.youtube.com/@GhostCoding_" target="_blank"><b>Ghost Coding</b></a> YouTube. Don't forget to like, subscribe and hit the notifications button!
+    Join me as we add video compression to our FlutterFlow application and upload it to BunnyCDN by following the detailed tutorial <a href="https://www.youtube.com/@GhostCoding..." target="_blank"><b>Ghost Coding</b></a> YouTube. Don't forget to like, subscribe and hit the notifications button!
     </div>
 </div>
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@GhostCoding_" target="_blank"><b>Ghost Coding</b></a>. 
+This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@GhostCoding..." target="_blank"><b>Ghost Coding</b></a>. 
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to add video compression to your FlutterFlow app!
 
