@@ -524,7 +524,7 @@ export async function GET(){
 ## <a name="more">🚀 More</a>
 **Advance your FlutterFlow applications with custom widgets**
 
-Find Custom widgets and Advanced Courses up for sale on both BuyMeACoffee and Patreon! You can also buy me a coffee if you would like to support me. Simply click on the image below or scan the QR code.
+Find Custom widgets and Advanced Courses up for sale on both [BuyMeACoffee](https://buymeacoffee.com/ghostcoding/extras) and [Patreon](https://www.patreon.com/ghostcoding/shop)! You can also buy me a coffee if you would like to support me. Simply click on the image below or scan the QR code.
 
 <a href="https://buymeacoffee.com/ghostcoding" target="_blank">
 <img src="https://ghost-coding.b-cdn.net/ghost-coding/bmc_qr%20(1).png" alt="BuyMeACoffee Page">
