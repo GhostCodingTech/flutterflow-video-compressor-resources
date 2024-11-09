@@ -2,6 +2,8 @@
 
 ## Video Compress single action in video-compress.dart file
 
+## Select video from device action in select-video.dart file
+
 ## Video Compress and bunny upload action in video-compress-and-upload.dart file
 
 ## Webhook for bunny in webhook folder and route.ts file
